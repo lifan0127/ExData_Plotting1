@@ -1,3 +1,19 @@
+
+## Coursera Data Science Specialization
+### 4. Exploratory Data Analysis
+### Course Project 1
+
+* plot1.R --- DONE
+* plot2.R --- DONE
+* plot3.R --- DONE
+* plot4.R --- DONE
+
+Note: you need to download and unzip the data file to be able to reproduce the plots.
+Link: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+
+-----------
+Below is the original instruction
+
 ## Introduction
 
 This assignment uses data from
